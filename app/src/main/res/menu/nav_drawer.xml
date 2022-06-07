@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/myprofiles"
+        android:title="My Profiles"
+        android:icon="@drawable/ic_myprofiles"/>
+    <item
+        android:id="@+id/recentdoc"
+        android:title="Recent Doctors"
+        android:icon="@drawable/ic_baseline_medical_services_24"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+
+
+</menu>

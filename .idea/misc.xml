@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/drawable/buttons.xml" value="0.2555" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/drawable/custom_button_back.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/drawable/edit_text_bg.xml" value="0.2555" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/drawable/floating.xml" value="0.146" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/drawable/header.xml" value="0.218" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/drawable/ic_medicalrecords.xml" value="0.2495" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/drawable/progress_back.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/drawable/round_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_add_medical_records.xml" value="0.128" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_add_medical_records2.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_add_new_profiles.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_add_profiles.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_appointments.xml" value="0.15625" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_dashboard.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_dblist_profiles.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_doctors_types.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_edit.xml" value="0.4" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_edit_medical_records.xml" value="0.22105263157894736" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_edit_profiles.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_main2.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_medical_records.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_medical_records2.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_my_profiles.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_profiles.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_splash.xml" value="0.176" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/activity_test_lab.xml" value="0.234375" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/diaglogcontent.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/dialogcontent.xml" value="0.25" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/dialogcontentprofiles.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/fragment_appointments.xml" value="0.15625" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/fragment_medical_records.xml" value="0.15625" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/list_profiles_data.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/medical_rv_item.xml" value="0.176" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/nav_header_layout.xml" value="0.15625" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/profiles_rv_item.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/layout/raw.xml" value="0.1" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+        <entry key="..\:/Users/sahsa/AndroidStudioProjects/oladoc3/app/src/main/res/menu/nav_drawer.xml" value="0.15625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

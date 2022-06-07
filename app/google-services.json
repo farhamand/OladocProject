@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82662750475",
+    "project_id": "oladocproject",
+    "storage_bucket": "oladocproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82662750475:android:2f5019b710bbd6b4d14a0e",
+        "android_client_info": {
+          "package_name": "com.example.oladoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82662750475-0lltholp281640auo1olqt23ruqiop6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oladoc",
+            "certificate_hash": "da9701420e114cb39a9cf52ecb3b09499b5920e1"
+          }
+        },
+        {
+          "client_id": "82662750475-veu4ab3efb7k466btfl6pp9j2f11m4sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGgPKYbQ3mCBW0g4X95Ws1TNDhoGmMJqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82662750475-veu4ab3efb7k466btfl6pp9j2f11m4sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

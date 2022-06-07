@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@id/appointments"
+        android:title="Appointments"
+        android:icon="@drawable/ic_appointments"/>
+    <item
+        android:id="@id/medicalrecords"
+        android:title="Medical Records"
+        android:icon="@drawable/ic_medicalrecords"/>
+
+</menu>
